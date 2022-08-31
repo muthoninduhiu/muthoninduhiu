@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @muthoninduhiu
-- 👀 I’m interested in ...android and web dev
-- 🌱 I’m currently learning ...android with kotlin,AWS with ML and Full stack Web Dev
-- 💞️ I’m looking to collaborate on ...android development and full stack web dev especially with python.
+- 👀 I’m interested in ...android and web development
+- 🌱 I’m currently learning ...android with kotlin and Full stack Web Development
+- 💞️ I’m looking to collaborate on ...android development and full stack web development
 - 📫 How to reach me ...@Nduhiu_Muthoni on twitter
 
 <!---
