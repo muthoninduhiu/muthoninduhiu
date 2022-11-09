@@ -18,7 +18,8 @@ I’m a Software Developer. I enjoy building responsive and interactive web proj
 - 👯 I’m looking to collaborate on an android project.
 - ⚡ Fun fact: I love coding and exercising
 
-- 📫 @Nduhiu_Muthoni on twitter
+- 📫 [Twitter](https://twitter.com/Nduhiu_Muthoni)
+- 📫 [LinkedIn](https://www.linkedin.com/in/nduhiu-maryanne/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muthoninduhiu&show_icons=true&theme=gruvbox)
 
