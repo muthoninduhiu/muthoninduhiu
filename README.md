@@ -27,8 +27,6 @@ I’m a Software Developer. I enjoy building responsive and interactive web proj
 </p>
 
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=muthoninduhiu&show_icons=true&locale=en&layout=compact" alt="muthoninduhiu" /></p>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muthoninduhiu&show_icons=true&theme=gruvbox)
 
 
