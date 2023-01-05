@@ -25,6 +25,7 @@ I’m a Software Developer. I enjoy building responsive and interactive web proj
 <a href="https://instagram.com/muthoninduhiu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muthoninduhiu" height="30" width="40" /></a>
 <a href="https://medium.com/@muthoninduhiu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muthoninduhiu" height="30" width="40" /></a>
 </p>
+
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=muthoninduhiu&show_icons=true&locale=en&layout=compact" alt="muthoninduhiu" /></p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muthoninduhiu&show_icons=true&theme=gruvbox)
