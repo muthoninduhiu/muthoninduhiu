@@ -12,7 +12,7 @@ I have a passion in Software Development and an avid learnert. I enjoy building 
 
 
 ## About Me
-- 👀 I’m interested in android and web development.
+- 👀 I’m Machine Learning enthusiast.
 - 🌱 I’m currently learning data science with python.
 - 👯 I’m looking to collaborate on an open source projects.
 - ⚡ Fun fact: I love reading novels and walking my pets
