@@ -1,10 +1,9 @@
 
 # **👋 Hi, I’m Muthoni Nduhiu**
 
-## Software Developer
+## Software Developer and Coding Instructor
 
 A computer science enthusiast deeply passionate about machine learning. My aim is to help both myself and others reach academic and personal goals by merging my love for technology and education
-Technologies I use: **PostgreSQL, Python Flask, Auth0, Docker, Amazon Web Services, Kubernetes, Postman, Git & Github, MySQL**
 
 
 <h3 align="left">Languages and Tools:</h3>
