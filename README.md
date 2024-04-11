@@ -3,7 +3,8 @@
 
 ## Software Developer
 
-I have a passion in Software Development and an avid learner. I enjoy building responsive and interactive web projects. I currently just completed a Full Stack NanoDegree at Udacity which has allowed me to participate in four projects that included several technologies: **PostgreSQL, Python Flask, Auth0, Docker, Amazon Web Services, Kubernetes, Postman, Git & Github**
+A computer science enthusiast deeply passionate about machine learning. My aim is to help both myself and others reach academic and personal goals by merging my love for technology and education
+Technologies I use: **PostgreSQL, Python Flask, Auth0, Docker, Amazon Web Services, Kubernetes, Postman, Git & Github, MySQL**
 
 
 <h3 align="left">Languages and Tools:</h3>
