@@ -21,7 +21,7 @@ A computer science enthusiast deeply passionate about machine learning. My aim i
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nduhiu_muthoni" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nduhiu_muthoni" height="30" width="40" /></a>
+<a href="https://twitter.com/nduhiu_muthoni" target="_blank"><img align="center" src="https://github.com/muthoninduhiu/muthoninduhiu/blob/main/x.png" alt="nduhiu_muthoni" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nduhiu-maryanne" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nduhiu-maryanne" height="30" width="40" /></a>
 <a href="https://instagram.com/muthoninduhiu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muthoninduhiu" height="30" width="40" /></a>
 <a href="https://medium.com/@muthoninduhiu.mn" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muthoninduhiu" height="30" width="40" /></a>
