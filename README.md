@@ -9,7 +9,6 @@ I enjoy building efficient, human-centered systems and helping others reach thei
 ## 🧠 I have a strong interest in:
 - Debugging and understanding complex codebases  
 - Writing scalable, maintainable code  
-- Thoughtful AI integration in development workflows  
 - Improving developer experience and technical clarity  
 - Creating systems and workflows that support focus, ease, and sustainable productivity  
 
@@ -58,8 +57,3 @@ I enjoy building efficient, human-centered systems and helping others reach thei
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muthoninduhiu" height="30" width="40" />
   </a>
 </p>
-
----
-
-## 📊 GitHub Stats
-![Muthoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=muthoninduhiu&show_icons=true&theme=gruvbox)
