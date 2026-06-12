@@ -33,15 +33,19 @@ I build and manage systems where engineering, advertising, and operations meet �
 </p>
 
 ---
-## 📊 AdTech & Platform Expertise
-
-- Google Ads (Search, Display, Measurement, Optimization)
-- Meta Ads Manager (Campaign setup, scaling, tracking)
-- DV360 (Programmatic buying, audience strategy, reporting)
-- Programmatic Ecosystem (DSPs, SSPs, Ad Exchanges)
-- - Linear — technical workflow planning & engineering collaboration  
-
+### 📊 AdTech & Growth Systems
+- Programmatic ecosystem (DSPs, SSPs, Ad Exchanges)  
+- Looker Studio (dashboards, reporting, performance tracking)  
+- Linear (execution systems & delivery tracking)  
+- Git & GitHub (version control & collaboration)  
 ---
+
+## 📚 Currently Leveling Up
+
+- Advanced Google Ads strategy (Search, Display, Measurement)  
+- Meta Ads scaling, attribution & performance systems  
+- DV360 deep programmatic optimization & reporting logic  
+- Experimentation frameworks for conversion lift & tracking accuracy 
 
 ## 📫 Connect with me:
 <p align="left">
