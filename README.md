@@ -1,16 +1,8 @@
 # 👋 Hi, I’m Maryanne Muthoni Nduhiu
 
-## 💻 Software Developer | Coding Instructor
+## 🚀 Technical Project Manager | Software Engineer | AdTech Operations
 
-I enjoy building efficient, human-centered systems and helping others reach their academic and personal goals by merging my love for technology and teaching.
-
----
-
-## 🧠 I have a strong interest in:
-- Debugging and understanding complex codebases  
-- Writing scalable, maintainable code  
-- Improving developer experience and technical clarity  
-- Creating systems and workflows that support focus, ease, and sustainable productivity  
+I build and manage systems where engineering, advertising, and operations meet — focusing on clarity, reliability, and scalable execution.
 
 ---
 
@@ -39,6 +31,15 @@ I enjoy building efficient, human-centered systems and helping others reach thei
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 </p>
+
+---
+## 📊 AdTech & Platform Expertise
+
+- Google Ads (Search, Display, Measurement, Optimization)
+- Meta Ads Manager (Campaign setup, scaling, tracking)
+- DV360 (Programmatic buying, audience strategy, reporting)
+- Programmatic Ecosystem (DSPs, SSPs, Ad Exchanges)
+- - Linear — technical workflow planning & engineering collaboration  
 
 ---
 
