@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Maryanne Muthoni Nduhiu
 
-## 🚀 Technical Project Manager | Software Engineer | AdTech Operations
+## 🚀 Technical Project Manager (QA, AdOps & Software Engineering)
 
 I build and manage systems where engineering, advertising, and operations meet — focusing on clarity, reliability, and scalable execution.
 
