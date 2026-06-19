@@ -38,7 +38,7 @@ I build and manage systems where engineering, advertising, and operations meet â
   <tr>
     <td valign="top">
 
-### ðŸ“Š AdTech & Growth Systems
+### ðŸ“Š Learning AdTech & Growth Systems
 - Programmatic ecosystem (DSPs, SSPs, Ad Exchanges)  
 - Google Ads (search, display & measurement)  
 - Meta Ads Manager (campaign execution & scaling)  
@@ -50,7 +50,6 @@ I build and manage systems where engineering, advertising, and operations meet â
 
 ### ðŸ§  Workflow & Delivery Systems
 - Linear (execution systems & delivery tracking)  
-- Jira (project tracking & coordination)  
 - Git & GitHub (version control & collaboration)  
 
     </td>
